@@ -125,8 +125,8 @@ function lilka.draw()
 
     if state == IDLE then
         txt(WHITE, cx-75, H-32, "Повтори послідовність!")
-        txt(GRAY,  25,     H-10, "B: вихід")
-        txt(GRAY,  170,   H-10, "A: почати")
+        txt(GRAY,  30,     H-10, "B: вихід")
+        txt(GRAY,  188,   H-10, "A: почати")
     elseif state == SHOW then
         txt(GRAY, cx-54, H-28, "Запам'ятай!")
     elseif state == INPUT then
