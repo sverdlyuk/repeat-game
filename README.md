@@ -4,6 +4,10 @@
 
 <img width="280" height="240" alt="8579151774899774894" src="https://github.com/user-attachments/assets/c6086cd8-0ffa-4568-9fb9-2fd5b6041689" />
 
+<img width="280" height="240" alt="screenshot_20260403_214627" src="https://github.com/user-attachments/assets/df8fcab1-f4e2-4b43-9348-9ca27df62e30" />
+
+<img width="280" height="240" alt="screenshot_20260403_214641" src="https://github.com/user-attachments/assets/ba6b8692-72f8-4d5f-b4ae-004b5afab3d8" />
+
 
 ## 🕹️ Як грати
 
